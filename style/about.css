@@ -27,7 +27,7 @@ align-items: center;
     width: 80%;
     height: 80vh;
     display: flex;
-  margin:20vh;
+  margin:50vh;
  position:center;
     padding: calc(5% +30px) 0px ;
 }
@@ -79,7 +79,7 @@ margin-top: -17px;
     font-size: 40px;
     color: #33bec8;
     width: 100%;
-    margin-left: 12%;
+    margin-left: -100px;
 }
 
 
@@ -89,13 +89,15 @@ margin-top: -17px;
     color: #fff;
     margin-top: 33px;
     text-align: justify;
-    margin-left: 5%;
-    margin-right: 7%;
+    margin-left: -180px;
+    width: 700px;
 }
 #link{
+    width: 230px;
+    margin-right: 48px;
     height: 14vh;
-    width: 23vh;
-    margin-left: 63%;
+    margin-top: -30px;
+    margin-left: 100px;
     font-size: 17px;
 }
 
@@ -109,17 +111,18 @@ margin-top: -17px;
 
 font-size: 16px;
 
-margin-top: -13px;
+margin-top: -20px;
 }
 #members{
+    width: 230px;
+    margin-right: 48px;
     height: 14vh;
-    font-size: 21px;
-    width: 23vh;
-    margin-left: 63%;
-    /* margin-right:20px; */
+    margin-top: -30px;
+    margin-left: 70px;
+    font-size: 17px;
 }
  #members a{
- margin-top: -11px;
+ margin-top: -20px;
  font-size: 16px;
  }
     #members i{
@@ -128,17 +131,19 @@ margin-top: -13px;
 
 
 #found{
-    width: 24vh;
+    width: 230px;
     margin-right: 48px;
     height: 14vh;
+    margin-top: -30px;
+    margin-left: 40px;
     font-size: 17px;
-    margin-left: 63%;
 }
+
 #found a{
 
 font-size: 16px;
 
-margin-top: -11px;
+margin-top: -20px;
 }
 
 #found i{
@@ -422,7 +427,7 @@ div#found {
     margin-top: 530px;
 }
 
-.about-us-section .img-head img {width: 47vh;height: 38vh;display: block;transition: transform .3s;margin: auto;position: absolute;left: 3%;right: 3%;}
+.about-us-section .img-head img {width: 54vh;height: 42vh;display: block;transition: transform .3s;margin: auto;position: absolute;left: 3%;right: 3%;}
 
 img {
     width: 10px;
@@ -461,9 +466,6 @@ img {
     }
 }
 /* Ensure there is space below the footer */
-
-
-
 
 
 
